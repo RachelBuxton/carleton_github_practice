@@ -3,6 +3,6 @@ Practice Github at Carleton
 
 ###Folders
 
--Data
--Scripts
--Output
+- Data
+- Scripts
+- Output
